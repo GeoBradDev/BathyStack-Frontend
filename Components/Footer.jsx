@@ -23,7 +23,7 @@ const Footer = ({ setTermsOpen, setPrivacyOpen }) => {
             >
                 {/* Left-aligned Copyright */}
                 <Typography variant="body2" sx={{ fontWeight: 500 }}>
-                    © {new Date().getFullYear()} WebGIS Application
+                    © {new Date().getFullYear()} BathyStack. All rights reserved.
                 </Typography>
 
                 {/* Center-aligned Social Icons */}
